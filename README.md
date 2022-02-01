@@ -1,2 +1,5 @@
 Hi, I'm Chintu!
-sdfsd
+
+
+* This is a bulleted list
+* This is second point
